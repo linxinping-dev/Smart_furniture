@@ -29,3 +29,7 @@ RTE/_Target_*
 # OS
 .DS_Store
 Thumbs.db
+
+# DebugConfig/
+*.uvguix.*
+*.lst
