@@ -1,0 +1,31 @@
+# STM32 / Keil
+
+# Build folders
+Debug/
+Release/
+Objects/
+Listings/
+
+# Keil cache
+*.uvguix.*
+*.bak
+
+# Build output
+*.o
+*.d
+*.crf
+*.dep
+*.axf
+*.map
+*.lst
+
+# STM32CubeIDE
+.settings/
+.metadata/
+
+# RTE cache
+RTE/_Target_*
+
+# OS
+.DS_Store
+Thumbs.db
