@@ -1,0 +1,6 @@
+Failed to load QML:
+url=qrc:/qml/main.qml
+
+Warnings/Errors:
+- qrc:/qml/main.qml: Type Dashboard unavailable
+- qrc:/qml/Dashboard.qml: Cannot assign to non-existent property "padding"
